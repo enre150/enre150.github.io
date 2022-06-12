@@ -1,0 +1,23 @@
+header{
+    padding: 50px;
+    background-color: bisque;
+    text-align: center;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    background-color: aquamarine;
+}
+
+nav a{
+    color: black;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+/* CONFIGURAR IMAGEN EN CENTRO */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
